@@ -1,4 +1,4 @@
-# Sofie Bieker 261138380
+# Sofie Bieker
 
 .data
 commands: .asciiz "Commands (encrypt, decrypt, quit): "
