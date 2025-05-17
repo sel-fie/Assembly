@@ -1,5 +1,5 @@
 Template matching assignment was done in collarboration with a teammate
-  in order to run the template matching code, you would need extra files 
+  - in order to run the template matching code, you would need extra files 
 
 Hanoi solves a tower of hanoi type problem
 
