@@ -1,6 +1,6 @@
 ############ COMP 273, Fall 2024, Assignment 4, Tower of Hanoi - non-recursive ###########
 #TODO: Add the info below
-# Student ID: 261138380
+# Student ID: 
 # Name: Sofie Bieker
 # Using my Penalty Waiver on this assignment !!
 
